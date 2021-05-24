@@ -1,0 +1,1 @@
+<?php include 'fungsi/config.php'; cekPunyaKomen($_GET['ID_Artikel']); echo "<meta http-equiv='refresh' content='1;url=index.php'>"; ?>
