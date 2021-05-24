@@ -37,7 +37,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id_admin`, `username`, `password`) VALUES
-(1, 'roichan', '12345'),
+(1, 'roichan', 'roichan'),
 (8, 'admin', 'admin');
 
 --
